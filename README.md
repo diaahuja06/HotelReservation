@@ -1,2 +1,2 @@
 # HotelReservation
-It is about the reservation syste,m in hotel.
+It is about the reservation system in hotel.
